@@ -7,3 +7,8 @@ We show that the K-means algorithm does not always converge to a locally optimal
 **Lay Summary**:
 The K-means algorithm is one of the most widely used algorithms for clustering datasets into homogeneous groups. It also seems to be largely accepted, from at least the 1980s, that the K-means algorithm converges to locally optimal solutions. In this work we first show, by counterexample, that this is not true in general. We then develop simple modifications to the K-means algorithm which guarantee that it converges to a locally optimal solution, while also keeping the same computational complexity as the original K-means algorithm. We performed extensive experiments on both synthetic and real-world datasets and confirmed that the K-means algorithm does not always converge to locally optimal solutions in practice, while also verifying that our algorithms generate improved locally optimal solutions with reduced clustering loss.
 
+## How to Use
+
+The experiments were primarily conducted using **C++**, and the corresponding code and results can be found in the [cpp](./cpp) folder.
+
+For convenience, we also provide a **Python** implementation, which is available in the [py](./py) folder.  
