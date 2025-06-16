@@ -12,3 +12,15 @@ The K-means algorithm is one of the most widely used algorithms for clustering d
 The experiments were primarily conducted using **C++**, and the corresponding code and results can be found in the [cpp](./cpp) folder.
 
 For convenience, we also provide a **Python** implementation, which is available in the [py](./py) folder.  
+
+## Cite
+[Modified K-means Algorithm with Local Optimality Guarantees](https://arxiv.org/abs/2506.06990):
+
+```bibtex
+@article{li2025modified,
+  title={Modified K-means Algorithm with Local Optimality Guarantees},
+  author={Li, Mingyi and Metel, Michael R. and Takeda, Akiko},
+  journal={arXiv preprint arXiv:2506.06990},
+  year={2025}
+}
+```
