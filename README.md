@@ -14,13 +14,16 @@ The experiments were primarily conducted using **C++**, and the corresponding co
 For convenience, we also provide a **Python** implementation, which is available in the [py](./py) folder.  
 
 ## Cite
-[Modified K-means Algorithm with Local Optimality Guarantees](https://arxiv.org/abs/2506.06990):
+[Modified K-means Algorithm with Local Optimality Guarantees](https://proceedings.mlr.press/v267/li25bt.html):
 
 ```bibtex
-@article{li2025modified,
-  title={Modified K-means Algorithm with Local Optimality Guarantees},
-  author={Li, Mingyi and Metel, Michael R. and Takeda, Akiko},
-  journal={arXiv preprint arXiv:2506.06990},
-  year={2025}
+@InProceedings{li2025modified,
+  title = {Modified K-means Algorithm with Local Optimality Guarantees},
+  author = {Li, Mingyi and Metel, Michael R. and Takeda, Akiko},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = {35656--35684},
+  year = {2025},
+  volume = {267},
+  publisher = {PMLR}
 }
 ```
